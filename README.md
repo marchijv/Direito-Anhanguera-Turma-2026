@@ -2,9 +2,9 @@
 Bem-vindos ao nosso hub de estudos e repositório para compartilhamento de materiais da turma! 
 
 ### 🎓 Representantes
-- **Representante da Turma**: Heloisa (11 99133-4177)
-- **Vice-representante**: Sonia Gaspar (11 98560-6048)
-- **Curador**: João V. Marchi (11 99270-7054)
+- **Representante da Turma**: Heloisa
+- **Vice-representante**: Sonia Gaspar
+- **Curador**: João V. Marchi
 
 🤝 **Como contribuir?** *Tem um material para compartilhar com a turma? Entre em contato com o curador para subir seus arquivos!*
 
