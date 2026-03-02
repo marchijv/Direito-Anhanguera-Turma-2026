@@ -13,6 +13,7 @@ Bem-vindos ao nosso hub de estudos e repositório para compartilhamento de mater
 - **B2**: 01/06 a 06/06
 
 ### 🔗 Links Rápidos
+- [Materiais Complementares](./1-Semestre/Calendário_acadêmico_2026_1.pdf)
 - [Materiais Complementares](./Materiais-Complementares)
 - [Teoria Geral do Direito Constitucional](./1-Semestre/Teoria-Geral-do-Direito-Constitucional)
 - [Direito Civil - Parte Geral](./1-Semestre/Direito-Civil-Parte-Geral)
