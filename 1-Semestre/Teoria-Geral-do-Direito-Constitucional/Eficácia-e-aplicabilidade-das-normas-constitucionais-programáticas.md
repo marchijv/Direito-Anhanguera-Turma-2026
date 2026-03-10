@@ -2,7 +2,8 @@
 
 **Data:** 1 de fevereiro de 2014  
 **Autora:** Bruna Helena Alvarez de Faria e Oliveira
-[**Link**](#https://ambitojuridico.com.br/eficacia-e-aplicabilidade-das-normas-constitucionais-programaticas/)
+
+[**Link**](https://ambitojuridico.com.br/eficacia-e-aplicabilidade-das-normas-constitucionais-programaticas/)
 
 ---
 
