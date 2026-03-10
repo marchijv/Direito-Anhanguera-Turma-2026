@@ -3,6 +3,8 @@
 **Data:** 1 de novembro de 2017  
 **Autor:** Paulo Byron Oliveira Soares Neto
 
+[**Link**](https://ambitojuridico.com.br/aplicabilidade-e-eficacia-das-normas-constitucionais/)
+
 ---
 
 ## Resumo
