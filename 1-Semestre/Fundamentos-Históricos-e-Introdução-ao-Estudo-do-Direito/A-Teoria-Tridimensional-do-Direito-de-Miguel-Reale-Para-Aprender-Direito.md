@@ -80,6 +80,6 @@ Apesar do dinamismo, Reale defende a existência de **Invariantes Axiológicas**
 
 ---
 **Contribuições:** Notas baseadas nos videos:
-[A Teoria Tridimensional do Direito de Miguel Reale -> Para Aprender Direito](https://youtu.be/MzwJFApoH94?si=r_SFZhArTyr10KSn)
-[Teoria Tridimensional do Direito (Miguel Reale) -> Direito Sem Juridiquês](https://youtu.be/QctsGF99BSQ?si=42JzFt297uyylGt7)
-[Teoria Tridimensional do Direito (Miguel Reale) - Resumo e Exemplos | Filosofia do Direito -> Me Julga - Cíntia Brunelli](https://youtu.be/KyBUH9y9QvE?si=acKsS7OMWih3JjXY)
+* [A Teoria Tridimensional do Direito de Miguel Reale -> Para Aprender Direito](https://youtu.be/MzwJFApoH94?si=r_SFZhArTyr10KSn)
+* [Teoria Tridimensional do Direito (Miguel Reale) -> Direito Sem Juridiquês](https://youtu.be/QctsGF99BSQ?si=42JzFt297uyylGt7)
+* [Teoria Tridimensional do Direito (Miguel Reale) - Resumo e Exemplos | Filosofia do Direito -> Me Julga - Cíntia Brunelli](https://youtu.be/KyBUH9y9QvE?si=acKsS7OMWih3JjXY)
