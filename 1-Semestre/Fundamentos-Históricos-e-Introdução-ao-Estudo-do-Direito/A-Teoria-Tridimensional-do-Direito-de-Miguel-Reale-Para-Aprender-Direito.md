@@ -43,7 +43,7 @@ A norma é o resultado de uma "escolha" de vetores de valor sobre a realidade.
 ## 4. O Processo do Normativismo Concreto (Historicidade)
 O Direito é uma cadeia contínua. Uma norma não encerra o processo, ela o alimenta.
 
-![Processo do Normativismo Concreto](../../assets/Processo%20do%20Normativismo%20Concreto.PNG)
+![Processo do Normativismo Concreto](../../assets/Processo-do-Normativismo-Concreto.PNG)
 
 * **Feedback Loop:** A norma $N^1$ altera a realidade, gerando novos fatos ($F^2$) e novos valores ($V^2$), que exigirão uma nova norma ($N^2$).
 * **Experiência Jurídica:** O Direito é uma sucessão histórica de integrações axiológicas.
@@ -53,7 +53,7 @@ O Direito é uma cadeia contínua. Uma norma não encerra o processo, ela o alim
 ## 5. Discriminação do Saber Jurídico
 Como a teoria organiza as disciplinas do Direito:
 
-![Saber Jurídico](./assets/Saber%20Jurídico.PNG)
+![Saber Jurídico](../../assets/Saber-Jurídico.PNG)
 
 | Plano | Disciplina Exemplo | Foco Principal |
 | :--- | :--- | :--- |
@@ -67,7 +67,7 @@ Como a teoria organiza as disciplinas do Direito:
 ## 6. O Ciclo de Feedback Social e Eficácia
 A norma possui uma função pedagógica e transformadora na sociedade.
 
-![Ciclo Social](./assets/Ciclo%20Social.PNG)
+![Ciclo Social](../../assets/Ciclo-Social.PNG)
 
 * **Concretização:** A norma aplicada gera efeitos reais.
 * **Mensagem Social:** O sucesso ou falha da norma (impunidade vs. justiça) altera o *ethos* e os **Valores da Sociedade**.
