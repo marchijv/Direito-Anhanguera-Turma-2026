@@ -1,7 +1,7 @@
 # Teoria Tridimensional do Direito - Miguel Reale
 
 Notas de estudo baseadas na análise da obra e pensamento de Miguel Reale, focando na superação do positivismo jurídico estrito e na introdução do Direito como fenômeno cultural.
-Resumo AI do Video, segue o [link](/youtu.be/MzwJFApoH94?si=r_SFZhArTyr10KSn)
+Resumo AI do Video, segue o [link](https://youtu.be/MzwJFApoH94)
 
 ---
 
