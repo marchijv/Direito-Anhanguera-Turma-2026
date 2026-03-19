@@ -31,7 +31,7 @@ Diferente da dialética hegeliana (onde a síntese anula os opostos), na dialét
 ## 3. Dinâmica de Incidência Axiológica
 A norma é o resultado de uma "escolha" de vetores de valor sobre a realidade.
 
-![Diagrama de Incidência](./assets/Diagrama%20de%20Incidência.PNG)
+![Diagrama de Incidência](./assets/Diagrama-de-Incidência.PNG)
 
 * **Complexo Fático (F):** A base da realidade social.
 * **Complexo Axiológico (V1...Vn):** Os diversos valores em disputa na cultura.
