@@ -1,6 +1,6 @@
 # A Organização Territorial do Estado no Direito Comparado
 **Autor:** José Luiz Quadros de Magalhães  
-**Resumo Acadêmico para Repositório de Direito Constitucional**
+**Fonte Original:** [Jus.com.br](https://jus.com.br/artigos/3156/o-territorio-do-estado-no-direito-comparado)
 
 ---
 
