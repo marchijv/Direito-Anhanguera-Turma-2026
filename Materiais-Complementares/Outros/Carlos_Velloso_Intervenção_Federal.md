@@ -1,5 +1,7 @@
 # Intervenção Federal: Conceitos e Funcionamento
 
+**Fonte:** [Saiba o que é e como funciona uma intervenção federal](https://youtu.be/lsNVTxZX284) - Canal Oficial do STF.
+
 Resumo acadêmico baseado na explicação do Ex-Ministro Carlos Velloso (STF) sobre o instituto da Intervenção Federal no Direito Constitucional Brasileiro.
 
 ## 1. Natureza Jurídica e Princípio da Não-Intervenção
